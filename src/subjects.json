@@ -1,0 +1,21 @@
+[
+  { "id": "m101", "name": "Programación Estructurada" },
+  { "id": "m102", "name": "Desarrollo de Software I" },
+  { "id": "m103", "name": "Programación Orientada a Objetos" },
+  { "id": "m104", "name": "Estructura de Datos" },
+  { "id": "m105", "name": "Base de Datos I" },
+  { "id": "m106", "name": "Base de Datos II" },
+  { "id": "m107", "name": "Base de Datos III" },
+  { "id": "m108", "name": "Base de Datos IV" },
+  { "id": "m109", "name": "Español" },
+  { "id": "m110", "name": "Inglés" },
+  { "id": "m111", "name": "Comercio Internacinal" },
+  { "id": "m112", "name": "Derecho Informático" },
+  { "id": "m114", "name": "Diseño Web" },
+  { "id": "m115", "name": "Lógica de Programación" },
+  { "id": "m116", "name": "Redes" },
+  { "id": "m117", "name": "Introducción al comercio Electrónico" },
+  { "id": "m118", "name": "Marketing Digital" },
+  { "id": "m119", "name": "Contabilidad" },
+  { "id": "m120", "name": "Historia de Relación entre Panamá con E.E.U.U" }
+]
